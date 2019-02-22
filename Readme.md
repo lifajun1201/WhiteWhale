@@ -1,7 +1,7 @@
 # WhaleBook
 ## 项目介绍
 此处添加文字介绍
-![image](./Picture/监督学习.png)
+
 
 ## 贡献方式
 
